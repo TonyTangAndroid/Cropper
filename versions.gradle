@@ -2,12 +2,12 @@ ext {
 
     // Project
     libVersion = "3.3.4"
-    compileSdkVersion = 31
-    targetSdkVersion = 31
+    compileSdkVersion = 30
+    targetSdkVersion = 30
     minSdkVersion = 14
 
     // Gradle's
-    androidGradleVersion = '7.0.0'
+    androidGradleVersion = '4.2.2'
     ktlintGradleVersion = '10.0.0'
     mavenGradleVersion = '2.1'
 
